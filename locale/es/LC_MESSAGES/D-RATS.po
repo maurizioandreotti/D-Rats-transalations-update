@@ -1469,7 +1469,7 @@ msgid "Warmup timeout"
 msgstr "Fin calentamiento"
 
 msgid "Weather (WU)"
-msgstr "Tiempo (WU)"
+msgstr "Tiempo"
 
 msgid ""
 "When enabled, D-RATS will encapsulate\n"

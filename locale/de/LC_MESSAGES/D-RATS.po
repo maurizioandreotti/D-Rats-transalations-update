@@ -1243,7 +1243,7 @@ msgid "Warmup timeout"
 msgstr "PrÃ¤ambel ZeitÃ¼berschreitung"
 
 msgid "Weather (WU)"
-msgstr "Wetter (WU)"
+msgstr "Wetter"
 
 msgid ""
 "When enabled, D-RATS will encapsulate\n"
@@ -1358,3 +1358,12 @@ msgstr "Sekunden"
 
 msgid "sent"
 msgstr "gesendet"
+
+msgid "Debug Log"
+msgstr "Debug Log"
+
+msgid "Ignore"
+msgstr "Ignore"
+
+msgid "Ignore All"
+msgstr "Ignore All"
